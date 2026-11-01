@@ -2,7 +2,7 @@
 
 Desarrollador full-stack y de videojuegos en Buenos Aires, Argentina.
 
-Construyo aplicaciones web con React y Firebase, y juegos 2D en Java. Actualmente me estoy formando en ciberseguridad.
+Construyo aplicaciones web con React y Firebase, y juegos 2D en Java. Actualmente me estoy formando en Sistemas IT y un poco de ciberSeguridad.
 
 [LinkedIn](https://www.linkedin.com/in/luis-manuel-rodriguez-m%C3%A1rquez-b2208729b/) · [CV online](https://l-sudo-l.github.io/CV/) · [luis.manuel.rodriguez.0827@gmail.com](mailto:luis.manuel.rodriguez.0827@gmail.com)
 
