@@ -83,7 +83,6 @@ Sitio web multipágina para una plataforma de entrenamiento cognitivo: inicio, s
 ## Estadísticas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/l-sudo-l/l-sudo-l/stats-output/stats.svg" height="150" alt="Estadísticas de GitHub" />
   <img src="https://raw.githubusercontent.com/l-sudo-l/l-sudo-l/languages-output/languages.svg" height="150" alt="Lenguajes más usados" />
 </div>
 
